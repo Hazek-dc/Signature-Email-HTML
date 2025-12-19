@@ -4,9 +4,6 @@ A custom-coded HTML email signature designed for **Virtually by Nesh** (Virtual 
 
 This project focuses on cross-client compatibility, ensuring the design renders identicaly on desktop, mobile, and legacy email clients (including Outlook for Windows).
 
-## 📸 Preview
-![Signature Preview](https://via.placeholder.com/600x200?text=Upload+Screenshot+Here)
-
 ## 🛠 Tech Stack & Methodology
 * **Structure:** HTML4 Nested Tables (Ghost Tables).
 * **Styling:** Inline CSS only (No external stylesheets or `<style>` blocks in body).
