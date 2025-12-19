@@ -21,4 +21,4 @@ This project focuses on cross-client compatibility, ensuring the design renders 
 * **Why No JavaScript?** JS is blocked by all email clients for security reasons.
 
 ## 👤 Author
-Developed by [Nama Anda]
+Developed by [Qalwani Anugerah]
